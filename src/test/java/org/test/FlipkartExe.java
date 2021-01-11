@@ -47,92 +47,39 @@ public class FlipkartExe extends Flipkartbase{
 		
 		launchurl("https://www.flipkart.com/account/login");
 		
-		fill(a.getUsername(), "Gowthamvasudevan");
+		fill(a.getUsername(), "vasu");
 		
-		fill(a.getPassword(), "156156982");
-		
-		click(a.getLogin());
-	}
-	
-	@Test(invocationCount = 4,priority = 1)
-	public void testcase2() {
-		
-		Flipkartpojo a= new Flipkartpojo();
-		
-		launchurl("https://www.flipkart.com/account/login");
-		
-		fill(a.getUsername(), "Muthulakshmi");
-		
-		fill(a.getPassword(), "7849555252");
+		fill(a.getPassword(), "9629983502");
 		
 		click(a.getLogin());
 	}
-	
-	@Test(enabled = false)
-	public void testcase3() {
-		
-		Flipkartpojo a= new Flipkartpojo();
-		
-		launchurl("https://www.flipkart.com/account/login");
-	
-		String title = driver.getTitle();
-		Assert.assertTrue(title.contains("Gowtham"),"check the url");
-		
-		fill(a.getUsername(), "8825461756");
-		
-		String ggg = a.getUsername().getAttribute("Value");
-		Assert.assertEquals(ggg, "gowtham", "Check the message");
-		
-		fill(a.getPassword(), "5228585526");
-		
-		click(a.getLogin());
-	}
-	
-	@Test(priority = -2)
+
+
+	@Test(priority = 5,invocationCount = 2)
 	public void testcase4() {
 		
 		Flipkartpojo a= new Flipkartpojo();
 		
 		launchurl("https://www.flipkart.com/account/login");
-		SoftAssert sa = new SoftAssert();
-		String currentUrl = driver.getCurrentUrl();
-		sa.assertTrue(currentUrl.contains("Ghghgh"), "Chek the message");
 		
-		fill(a.getUsername(), "Muthuvasudevan");
+		fill(a.getUsername(), "vasu");
 		
-		fill(a.getPassword(), "48948262");
+		fill(a.getPassword(), "9629983502");
 		
 		click(a.getLogin());
-		
-		sa.assertAll();
 	}
-	
-	@Test(priority = 3)
+	@Test(priority = 5,invocationCount = 2)
 	public void testcase5() {
 		
 		Flipkartpojo a= new Flipkartpojo();
 		
 		launchurl("https://www.flipkart.com/account/login");
 		
-		fill(a.getUsername(), "Lakshmigowtham");
+		fill(a.getUsername(), "vasu");
 		
-		fill(a.getPassword(), "2562598");
-		
-		click(a.getLogin());
-		
-	}
-	
-	@Test(invocationCount = 3)
-	public void testcase6() {
-		
-		Flipkartpojo a= new Flipkartpojo();
-		
-		launchurl("https://www.flipkart.com/account/login");
-		
-		fill(a.getUsername(), "Vasujsdnkjdn");
-		
-		fill(a.getPassword(), "Lakshmi6515");
+		fill(a.getPassword(), "9629983502");
 		
 		click(a.getLogin());
 	}
+
 }
