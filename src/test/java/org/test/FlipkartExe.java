@@ -55,4 +55,31 @@ public class FlipkartExe extends Flipkartbase{
 	}
 
 
+	@Test(priority = 5,invocationCount = 2)
+	public void testcase4() {
+		
+		Flipkartpojo a= new Flipkartpojo();
+		
+		launchurl("https://www.flipkart.com/account/login");
+		
+		fill(a.getUsername(), "vasu");
+		
+		fill(a.getPassword(), "9629983502");
+		
+		click(a.getLogin());
+	}
+	@Test(priority = 5,invocationCount = 2)
+	public void testcase5() {
+		
+		Flipkartpojo a= new Flipkartpojo();
+		
+		launchurl("https://www.flipkart.com/account/login");
+		
+		fill(a.getUsername(), "vasu");
+		
+		fill(a.getPassword(), "9629983502");
+		
+		click(a.getLogin());
+	}
+
 }
