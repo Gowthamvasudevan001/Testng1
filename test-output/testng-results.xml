@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-28T17:25:34Z" name="Default suite" finished-at="2020-12-28T17:27:50Z" duration-ms="135899">
+    <groups>
+    </groups>
+    <test started-at="2020-12-28T17:25:34Z" name="Default test" finished-at="2020-12-28T17:27:50Z" duration-ms="135899">
+      <class name="org.test.FlipkartExe">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:25:34Z" name="launchBrowser" finished-at="2020-12-28T17:27:15Z" duration-ms="100368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:15Z" name="startTime" finished-at="2020-12-28T17:27:15Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase4()[pri:-2, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:15Z" name="testcase4" finished-at="2020-12-28T17:27:29Z" duration-ms="14802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:29Z" name="endTime" finished-at="2020-12-28T17:27:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:29Z" name="startTime" finished-at="2020-12-28T17:27:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase6()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:29Z" name="testcase6" finished-at="2020-12-28T17:27:31Z" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:31Z" name="endTime" finished-at="2020-12-28T17:27:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:31Z" name="startTime" finished-at="2020-12-28T17:27:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase6()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:31Z" name="testcase6" finished-at="2020-12-28T17:27:32Z" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:32Z" name="startTime" finished-at="2020-12-28T17:27:32Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:32Z" name="endTime" finished-at="2020-12-28T17:27:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="testcase6()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:32Z" name="testcase6" finished-at="2020-12-28T17:27:33Z" duration-ms="970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:33Z" name="endTime" finished-at="2020-12-28T17:27:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:33Z" name="startTime" finished-at="2020-12-28T17:27:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase2()[pri:1, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:33Z" name="testcase2" finished-at="2020-12-28T17:27:34Z" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:34Z" name="startTime" finished-at="2020-12-28T17:27:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:34Z" name="endTime" finished-at="2020-12-28T17:27:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="testcase2()[pri:1, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:34Z" name="testcase2" finished-at="2020-12-28T17:27:35Z" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:35Z" name="endTime" finished-at="2020-12-28T17:27:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:35Z" name="startTime" finished-at="2020-12-28T17:27:35Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase2()[pri:1, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:35Z" name="testcase2" finished-at="2020-12-28T17:27:37Z" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:37Z" name="startTime" finished-at="2020-12-28T17:27:37Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:37Z" name="endTime" finished-at="2020-12-28T17:27:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="testcase2()[pri:1, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:37Z" name="testcase2" finished-at="2020-12-28T17:27:38Z" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:38Z" name="endTime" finished-at="2020-12-28T17:27:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:38Z" name="startTime" finished-at="2020-12-28T17:27:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase5()[pri:3, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:38Z" name="testcase5" finished-at="2020-12-28T17:27:39Z" duration-ms="996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:39Z" name="endTime" finished-at="2020-12-28T17:27:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="testcase1()[pri:5, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:39Z" name="testcase1" finished-at="2020-12-28T17:27:46Z" duration-ms="7710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:39Z" name="startTime" finished-at="2020-12-28T17:27:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:46Z" name="endTime" finished-at="2020-12-28T17:27:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:46Z" name="startTime" finished-at="2020-12-28T17:27:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="testcase1()[pri:5, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:46Z" name="testcase1" finished-at="2020-12-28T17:27:48Z" duration-ms="1391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:48Z" name="close" finished-at="2020-12-28T17:27:50Z" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:org.test.FlipkartExe@4145bad8]" started-at="2020-12-28T17:27:48Z" name="endTime" finished-at="2020-12-28T17:27:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.test.FlipkartExe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
