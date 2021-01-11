@@ -47,7 +47,7 @@ public class FlipkartExe extends Flipkartbase{
 		
 		launchurl("https://www.flipkart.com/account/login");
 		
-		fill(a.getUsername(), "Gowthamvasudevan");
+		fill(a.getUsername(), "vasu");
 		
 		fill(a.getPassword(), "9629983502");
 		
